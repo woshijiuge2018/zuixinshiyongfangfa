@@ -24,7 +24,7 @@
 
 1:iOS端需要用爱思助手来安装
 
-2:[点击此处](https://www.lanzous.com/i131n6j)下载iOS客户端的ipa安装文件
+2:[点击此处](https://rss.myssr.club/downloads/Shadowrocket_2.1.12.ipa)下载iOS客户端的ipa安装文件
 
 3:[点击此处](https://www.i4.cn/news_detail_3339.html)查看爱思助手安装ipa文件教程
 
