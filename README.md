@@ -57,3 +57,5 @@
 4：更新成功后，请在服务器菜单处选择线路，并点击打开ShadowsocksR
 
 5：单击小飞机，选择PAC自动模式即可
+
+### [更多关于酸酸乳使用的教程大全More](https://share.weiyun.com/5q7G4tD)
