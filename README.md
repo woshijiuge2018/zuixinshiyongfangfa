@@ -35,7 +35,8 @@
   随便选择一个节点，打开右上角的连接开关进行连接，提示是否添加NPV连接，允许即可
   
 ### Android使用教程
-1：[点击下载)](https://yadi.sk/d/NixhpUFc3aenzM)SSR客户端或者下载SSRR客户端（https订阅）
+1：[点击下载](https://yadi.sk/d/NixhpUFc3aenzM)SSR客户端或者下载SSRR客户端（https订阅）
+
 2：安装好后，打开SSR
 
 3：点击击左上角的shadowsocksR进入配置文件页，点击右下角的“+”号，点击“添加/升级SSR订阅”，填入订阅信息并保存,左滑删除默认订阅（这是无用的）
